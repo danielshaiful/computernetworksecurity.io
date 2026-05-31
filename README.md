@@ -30,7 +30,7 @@ Personal Career Blog Portfolio
 6.How to run the project
 - To run this project locally, please follow these steps:
     1.Ensure you have Git installed on your computer.
-    2.Clone this repository: git clone https://github.com/danielshaiful/github.io
+    2.Clone this repository: git clone https://github.com/danielshaiful/computernetworksecurity.io.git
     3.Open the project folder in VS Code.
     4.Open the index.html file using your preferred web browser.
 
