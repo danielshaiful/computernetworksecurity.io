@@ -1,7 +1,7 @@
-CSA30203: Special Topic in Network Security
-Student Name: Muhammad Daniel bin Mohd.Shaiful Azhari
-Matric Number: 076908
-Lecturer Name: Dr. Nor Aida binti Mahiddin
+- CSA30203: Special Topic in Network Security
+- Student Name: Muhammad Daniel bin Mohd.Shaiful Azhari
+- Matric Number: 076908
+- Lecturer Name: Dr. Nor Aida binti Mahiddin
 
 1. Project title
 Personal Career Blog Portfolio
