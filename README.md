@@ -35,5 +35,5 @@ Personal Career Blog Portfolio
     4.Open the index.html file using your preferred web browser.
 
 7.Github Link/Website Link
-- GitHub Repository: https://github.com/danielshaiful/github.io
-- Live Demo: https://danielshaiful.github.io/ (GitHub Pages)
+- GitHub Repository: https://github.com/danielshaiful/computernetworksecurity.io
+- Live Demo: https://danielshaiful.computernetworksecurity.io/ (GitHub Pages)
